@@ -3,11 +3,10 @@
  */
 package arrays;
 
-import arrays.DynamicArray;
+import static org.junit.Assert.*;
 
 import java.util.Random;
 
-import static org.junit.Assert.*;
 import org.junit.Test;
 
 /**
